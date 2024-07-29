@@ -42,4 +42,6 @@ You will need zola installed, or you can download the executable directly from t
 zola serve
 ```
 
+Here is the resulting error in the firefox developer console:
+
 <img src="https://raw.githubusercontent.com/Jieiku/abridge-tinysearch-dev/master/error.png"/>
