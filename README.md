@@ -27,7 +27,7 @@ git clone https://github.com/Jieiku/abridge-tinysearch-dev
 cd abridge-tinysearch-dev
 ```
 
-## Build the tinysearch wasm and copy to static directory:
+## Build tinysearch wasm and copy to static directory:
 
 ```bash
 ~/.dev/tinysearch/target/release/tinysearch  -e "path=\"$HOME/.dev/tinysearch\"" --optimize public/data_tinysearch/index.html
