@@ -41,3 +41,5 @@ You will need zola installed, or you can download the executable directly from t
 ```bash
 zola serve
 ```
+
+<img src="https://raw.githubusercontent.com/Jieiku/abridge-tinysearch-dev/master/error.png"/>
